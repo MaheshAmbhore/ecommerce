@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "name": "Product A",
+      "description": "This is Product A.",
+      "price": 100,
+      "attributes" :{"X":"y"}
+    },
+    {
+      "id": 2,
+      "name": "Product B",
+      "description": "This is Product B.",
+      "price": 150,
+      "attributes" :{ 
+        "X1":"y1","X2":"y2"
+    }
+
+    },
+    {
+      "id": 3,
+      "name": "Product C",
+      "description": "This is Product C.",
+      "price": 200
+    },
+    {
+        "id": 4,
+        "name": "Product D",
+        "description": "This is Product D.",
+        "price": 180
+    },
+    {
+        "id": 5,
+        "name": "Product E",
+        "description": "This is Product E.",
+        "price": 130,
+        "attributes" :{"X":"y"}
+      },
+      {
+        "id": 6,
+        "name": "Product F",
+        "description": "This is Product F.",
+        "price": 150,
+        "attributes" :{ 
+          "X1":"y1","X2":"y2"
+      }
+  
+      },
+      {
+        "id": 7,
+        "name": "Product G",
+        "description": "This is Product G.",
+        "price": 200
+      },
+      {
+          "id": 8,
+          "name": "Product H",
+          "description": "This is Product H.",
+          "price": 180
+      }
+  
+
+]
